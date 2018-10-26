@@ -1,2 +1,0 @@
-# iwds
-java project
